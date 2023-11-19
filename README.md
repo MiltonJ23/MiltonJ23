@@ -16,12 +16,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I really love when the project i work on are tough , but like really , because , once you finish them you feel like you have grown up
--->###About me
+-->
+### About me
 
 Hi, i am a Undergraduate student in computer science
 but i use to like fields like : Cryptography, Machine Learning , Network security 
 
-###The Languages that i use 
+### The Languages that i use 
 
 | Rank | Languages |
 |-----:|-----------|
