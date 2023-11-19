@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://example.com/dark-rocket-launch.gif" sizes="(max-width: 768px) 100vw, 100vw">
-  <source media="(prefers-color-scheme: light)" srcset="https://example.com/light-rocket-launch.gif" sizes="(max-width: 768px) 100vw, 100vw">
-  <img alt="Image of a rocket launching into the sky" src="https://example.com/light-rocket-launch.gif" sizes="(max-width: 768px) 100vw, 100vw">
+  <source media="(prefers-color-scheme: dark)" srcset="[https://example.com/dark-rocket-launch.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.123rf.com%2Fphoto_154959792_fus%25C3%25A9e-de-lancement-d-art-avec-l-espace-du-ciel-notion-de-d%25C3%25A9marrage.html%3Fis_plus%3D1&psig=AOvVaw0wN-0_kFU0PFZGQG1veKKM&ust=1700478578732000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCmnr_2z4IDFQAAAAAdAAAAABAE)" sizes="(max-width: 768px) 100vw, 100vw">
+  <source media="(prefers-color-scheme: light)" srcset="[https://example.com/light-rocket-launch.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.123rf.com%2Fphoto_154959792_fus%25C3%25A9e-de-lancement-d-art-avec-l-espace-du-ciel-notion-de-d%25C3%25A9marrage.html%3Fis_plus%3D1&psig=AOvVaw0wN-0_kFU0PFZGQG1veKKM&ust=1700478578732000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCmnr_2z4IDFQAAAAAdAAAAABAE)" sizes="(max-width: 768px) 100vw, 100vw">
+  <img alt="Image of a rocket launching into the sky" src="[https://example.com/light-rocket-launch.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.123rf.com%2Fphoto_154959792_fus%25C3%25A9e-de-lancement-d-art-avec-l-espace-du-ciel-notion-de-d%25C3%25A9marrage.html%3Fis_plus%3D1&psig=AOvVaw0wN-0_kFU0PFZGQG1veKKM&ust=1700478578732000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCJCmnr_2z4IDFQAAAAAdAAAAABAE)" sizes="(max-width: 768px) 100vw, 100vw">
 </picture>
 
 
