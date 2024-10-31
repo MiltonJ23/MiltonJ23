@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Zingui Fred Mike
 #### Application Development and Cryptography
-I'm a FreshMen in Computer Science at the ICTUniversity Cameroon ; passionate about Cryptography , data Science and Application Development
+I'm a Junior in Computer Science at the ICTUniversity Cameroon ; passionate about Cryptography , data Science and Application Development.
 
 Skills: JAVA / PYTHON  / C /C++
 
