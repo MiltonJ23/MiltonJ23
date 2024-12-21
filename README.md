@@ -5,7 +5,7 @@ I'm a Junior in Computer Science at the ICTUniversity Cameroon ; passionate abou
 Skills: JAVA / Kotlin/ Python as well as Data Viz
 
 - 🔭 I’m currently working on A BlockChain Systems 
-- 🌱 I’m currently learning Data Visualisation 
+- 🌱 I’m currently learning "How Data lies" or how to lies with data 
 - 👯 I’m looking to collaborate on Research, application development 
 - 🤔 I’m looking for help with Research on Cryptographic and IA impacts in today Society 
 - 💬 Ask me about Anything relate to Computer Science, i will be glad to exchange some ideas with You 
