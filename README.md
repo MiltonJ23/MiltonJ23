@@ -4,12 +4,11 @@ I'm a Junior in Computer Science at the ICTUniversity Cameroon ; passionate abou
 
 Skills: JAVA / Kotlin/ Python as well as Data Viz
 
-- 🔭 I’m currently working on A BlockChain Systems 
-- 🌱 I’m currently learning "How Data lies" or how to lies with data 
+- 🔭 I’m currently working on A BlockChain Powered Donation Platform called Lendema
 - 👯 I’m looking to collaborate on Research, application development 
-- 🤔 I’m looking for help with Research on Cryptographic and IA impacts in today Society 
+- 🤔 I’m looking for help with Research on the Responsibility of AI in Crimes in today context
 - 💬 Ask me about Anything relate to Computer Science, i will be glad to exchange some ideas with You 
-- 📫 How to reach me: jonhmilton1991@gmail.com 
+- 📫 How to reach me: mikezingui@yahoo.com
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MiltonJ23)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/Milton)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/blogger.svg' alt='blogger' height='40'>](https://acheronox.blogspot.com/)  [<img src='https://github.com/MiltonJ23/MiltonJ23/blob/main/logo.svg' alt='Project Euler'>](https://projecteuler.net/profile/JohnMilton.png)
