@@ -17,7 +17,7 @@ Skills: JAVA / Kotlin/ Python as well as Data Viz
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MiltonJ23&show_icons=true)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=MiltonJ23)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MiltonJ23)](https://git.io/streak-stats)
 
 
 
