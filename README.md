@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Zingui Fred Mike
 #### Application Development and Cryptography 
-I'm a Junior in Computer Science at the ICTUniversity Cameroon ; passionate about Cryptography , data Science and Application Development.
+I'm a Senior in Computer Science at the ICTUniversity Cameroon ; passionate about Cryptography , data Science and Application Development.
 
 
 - 🔭 I’m currently working on A BlockChain Powered Donation Platform called Lendema
