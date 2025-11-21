@@ -2,7 +2,6 @@
 #### Application Development and Cryptography 
 I'm a Junior in Computer Science at the ICTUniversity Cameroon ; passionate about Cryptography , data Science and Application Development.
 
-Skills: JAVA / Kotlin/ Python as well as Data Viz
 
 - 🔭 I’m currently working on A BlockChain Powered Donation Platform called Lendema
 - 👯 I’m looking to collaborate on Research, application development 
