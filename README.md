@@ -18,3 +18,8 @@ Selected projects
 Contact
 - mikezingui@yahoo.com
 - https://github.com/MiltonJ23
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiltonJ23)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MiltonJ23&show_icons=true)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MiltonJ23)](https://git.io/streak-stats)
