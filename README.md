@@ -4,12 +4,9 @@ Software engineer · Yaoundé, Cameroon · ICT University, CS — June 2026
 
 ---
 
-I have a compulsive need to understand how things work at the layer below
-the one everyone else is using. That's why I've built a container orchestrator
-without touching Docker, a distributed filesystem from scratch, a compiler for
-languages that barely exist in any dataset. Not because it's the practical
-choice — because you don't actually understand something until you've had to
-build it.
+It's kind of intriguing when you think about the technologies we built our technologies upon, fascinated , i embarked on a journey to reach the levels of those hackers (as wizards). That's why I've built a container orchestrator
+without touching Docker , a distributed filesystem from scratch, a compiler for
+languages that barely exist in any dataset. Were those project tough ? YES they were (guess i have a long way to go ) . However, upon diving on this path, i found the greatest rewards so i guess the toss was worth it!
 
 ---
 
@@ -22,12 +19,12 @@ IPAM, distributed filesystem, REST-to-gRPC gateway.
 
 **LinguoMT** `Python` `HuggingFace`  
 Neural translation for Fufulde and Bafia. Scraped and cleaned 25k+ sentence pairs
-for Fufulde, 38k for Bafia — languages with no public MT datasets before this.
+for Fufulde, 38k for Bafia — languages , pretty difficult since the only available source we had was from scraping bible.com .
 Models live on HuggingFace. Published a research paper.
 
 **KmerLex** `Python` `Next.js`  
 Mini-compiler for Camfranglais and Pidgin. Lexical and syntactic analysis, error
-reporting by position, AST visualization. Because these languages deserve tooling.
+reporting by position, AST visualization. Compilers are a tough take, i found it to be at least, crazy level of abstraction.
 
 **Xplr** `Java` `JavaFX`  
 Digital forensics tool for FAT32. Journal reading, slack space inspection, device
