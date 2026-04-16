@@ -4,9 +4,7 @@ Software engineer · Yaoundé, Cameroon · ICT University, CS — June 2026
 
 ---
 
-It's kind of intriguing when you think about the technologies we built our technologies upon, fascinated , i embarked on a journey to reach the levels of those hackers (as wizards). That's why I've built a container orchestrator
-without touching Docker , a distributed filesystem from scratch, a compiler for
-languages that barely exist in any dataset. Were those project tough ? YES they were (guess i have a long way to go ) . However, upon diving on this path, i found the greatest rewards so i guess the toss was worth it!
+It’s kind of mind-blowing when you look at the deep tech we build everything else upon. Fascinated by the internals, I embarked on a quest to reach the level of the original hackers (the real wizards). That led me to build a container orchestrator without touching Docker, wire up a distributed filesystem from scratch, and write a compiler for obscure languages you won't even find in training datasets. Was it tough? Absolutely (and it proved I still have a lot to learn). But diving into the rabbit hole has been incredibly rewarding—definitely worth the struggle!
 
 ---
 
