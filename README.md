@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=3000&pause=1000&color=000000&width=300&lines=Hey%2C+I'm+Mike.)](https://git.io/typing-svg)
 
-Software engineer · Yaoundé, Cameroon · ICT University, CS — June 2026
+Software & Cloud engineer · Yaoundé, Cameroon ·
 
 ---
 
@@ -24,9 +24,8 @@ Models live on HuggingFace. Published a research paper.
 Mini-compiler for Camfranglais and Pidgin. Lexical and syntactic analysis, error
 reporting by position, AST visualization. Compilers are a tough take, i found it to be at least, crazy level of abstraction.
 
-**Xplr** `Java` `JavaFX`  
-Digital forensics tool for FAT32. Journal reading, slack space inspection, device
-cloning.
+**langchain-rabbitmq** `python` `Langchain` `Agent Tooling`  
+ A collection of 21 production-ready Langchain tools for RabbitMQ. Lets AI agents publish/consume messages, manage queues and exchanges, and inspect brokers — all with async support and full type safety. 
 
 ---
 
