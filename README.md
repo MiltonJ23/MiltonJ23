@@ -1,16 +1,16 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=28&duration=3000&pause=1000&color=000000&width=300&lines=Hey%2C+I'm+Mike.)](https://git.io/typing-svg)
 
-Software & Cloud engineer · Yaoundé, Cameroon ·
+Aspiring Systems Software engineer · Yaoundé, Cameroon ·
 
 ---
 
-It’s kind of mind-blowing when you look at the deep tech we build everything else upon. Fascinated by the internals, I embarked on a quest to reach the level of the original hackers (the real wizards). That led me to build a container orchestrator without touching Docker, wire up a distributed filesystem from scratch, and write a compiler for obscure languages you won't even find in training datasets. Was it tough? Absolutely (and it proved I still have a lot to learn). But diving into the rabbit hole has been incredibly rewarding—definitely worth the struggle!
+It’s mind-blowing when you look at the deep tech we build everything else upon. Fascinated by the internals, I embarked on a quest to reach the level of the original hackers (the real wizards). That led me to build a container orchestrator without touching Docker, wire up a distributed filesystem from scratch, and write a compiler for obscure languages you won't even find in training datasets. Was it tough? Absolutely (and it proved I still have a long way to go). But diving into the rabbit hole has been incredibly rewarding—definitely worth the struggle!
 
 ---
 
 ### Selected projects
 
-**[Nexus](https://github.com/MiltonJ23/Nexus)** `Go` `gRPC` `Linux`  
+**Nexus** `Go` `gRPC` `Linux`  
 A distributed container orchestrator, written from the kernel up. Direct syscalls,
 cgroups, namespaces — no Docker, no runC. Custom CNI-compliant networking, custom
 IPAM, distributed filesystem, REST-to-gRPC gateway.
